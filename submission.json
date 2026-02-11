@@ -1,0 +1,19 @@
+{
+  "assignment_id": "enterprise-rag-system",
+  "candidate_name": "TETALA BHANU SURYA DURGA REDDY",
+  "technologies": [
+    "FastAPI",
+    "PostgreSQL",
+    "Qdrant",
+    "OpenAI",
+    "Cohere",
+    "Sentence Transformers",
+    "Docker"
+  ],
+  "features": [
+    "Hybrid Search (Vector + BM25)",
+    "Re-ranking with Cohere",
+    "Asynchronous processing with Celery",
+    "Source attribution in LLM responses"
+  ]
+}
