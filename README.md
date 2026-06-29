@@ -1,7 +1,7 @@
 # Enterprise Document Search System with RAG
 
 A high-performance, multi-component Retrieval-Augmented Generation (RAG) system for enterprise document search.
-
+ 
 ## Features
 - **Document Ingestion**: Supports PDF, DOCX, TXT, etc., via `unstructured`.
 - **Hybrid Search**: Combines semantic vector search (Qdrant) with keyword search (BM25).
